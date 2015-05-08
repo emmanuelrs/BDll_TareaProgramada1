@@ -38,6 +38,9 @@ namespace BDll_TareaProgramada1
                         "~/Content/themes/base/jquery.ui.datepicker.css",
                         "~/Content/themes/base/jquery.ui.progressbar.css",
                         "~/Content/themes/base/jquery.ui.theme.css"));
+            bundles.Add(new ScriptBundle("~/Script/Bootstrap").Include("~/Scripts/Bootstrap.js"));
+            bundles.Add(new StyleBundle("~/Content/Bootstrap").Include("~/Content/Bootstrap.min.css"));
+
         }
     }
 }
