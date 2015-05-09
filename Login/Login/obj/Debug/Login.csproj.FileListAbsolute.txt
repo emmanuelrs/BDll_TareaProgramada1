@@ -1,6 +1,0 @@
-C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\Login\Login\bin\Login.dll.config
-C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\Login\Login\bin\Login.dll
-C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\Login\Login\bin\Login.pdb
-C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
-C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\Login\Login\obj\Debug\Login.dll
-C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\Login\Login\obj\Debug\Login.pdb
