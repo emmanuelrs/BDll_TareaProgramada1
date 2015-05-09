@@ -12,6 +12,13 @@ namespace Prueba2.Controllers
         Prueba p = new Prueba();
         //
         // GET: /Home/
+        public ActionResult Login()
+        {
+            int n = p.probar();
+            ViewBag.Nombre = "emma luis cristiam";
+            ViewBag.Numero = n;
+            return View();
+        }
 
         public ActionResult Index()
         {
@@ -21,6 +28,8 @@ namespace Prueba2.Controllers
 
             return View();
         }
+
+        
 
     }
 }
