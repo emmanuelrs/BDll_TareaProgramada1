@@ -66,11 +66,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="Oracle12c\LoginORCL.html" />
+    <Content Include="SQL Server 2012\LoginSQL.html" />
     <Content Include="Web.config" />
+    <Content Include="Website\CSS\cLoginSQL.css" />
     <Content Include="Website\CSS\cssIndex.css" />
-    <Content Include="Website\CSS\style.css" />
+    <Content Include="Website\CSS\cLoginORCL.css" />
     <None Include="Website\Img\bg.jpg" />
     <None Include="Website\Img\bglogin.jpg" />
+    <None Include="Website\Img\sqlServer.jpg" />
     <Content Include="Website\Login.html" />
   </ItemGroup>
   <ItemGroup>
@@ -82,8 +86,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Oracle12c\" />
-    <Folder Include="SQL Server 2012\" />
     <Folder Include="Website\JS\" />
   </ItemGroup>
   <ItemGroup>

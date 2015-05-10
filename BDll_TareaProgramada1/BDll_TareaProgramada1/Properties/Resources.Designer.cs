@@ -79,5 +79,15 @@ namespace BDll_TareaProgramada1.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sqlServer {
+            get {
+                object obj = ResourceManager.GetObject("sqlServer", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
