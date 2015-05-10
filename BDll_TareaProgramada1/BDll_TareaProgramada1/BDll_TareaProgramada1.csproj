@@ -72,6 +72,7 @@
     <Content Include="Website\CSS\cLoginSQL.css" />
     <Content Include="Website\CSS\cssIndex.css" />
     <Content Include="Website\CSS\cLoginORCL.css" />
+    <None Include="Website\Img\bgIndex.png" />
     <None Include="Website\Img\botonSQL.png" />
     <None Include="Website\Img\botonOracle.png" />
     <None Include="Website\Img\bg2.jpg" />

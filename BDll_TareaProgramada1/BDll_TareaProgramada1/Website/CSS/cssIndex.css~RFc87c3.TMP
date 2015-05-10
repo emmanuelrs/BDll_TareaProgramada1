@@ -1,0 +1,41 @@
+﻿body {
+    background-image: url("../Img/bg2.jpg");
+    background-repeat:no-repeat;
+    background-size:2100px auto;
+    background-position:center;
+}
+.botonimagen{
+  background-image:url(../Img/botonOracle.png);
+  background-repeat:no-repeat;
+  background-size: 400px 200px;
+  height:120px;
+  width:300px;
+  background-position:center;
+  position:absolute;
+  top:400px;
+  left:300px;
+  border: 2px solid #a1a1a1;
+  padding: 10px 40px; 
+  border-radius: 25px;
+}
+.botonimagen2{
+  background-image:url(../Img/botonSQL.png);
+  background-repeat:no-repeat;
+  background-size: 300px 90px;
+  height:130px;
+  width:310px;
+  background-position:center;
+  position:absolute;
+  top:400px;
+  left:800px;
+  border: 2px solid #a1a1a1;
+  padding: 10px 40px; 
+  border-radius: 25px;
+}
+h1 {
+    font-size: 88px;
+    font-style: italic;
+    color: #333;
+    padding: 200px;
+    text-shadow: -1px -1px 0px #101010, 1px 1px 0px #505050;
+ }
