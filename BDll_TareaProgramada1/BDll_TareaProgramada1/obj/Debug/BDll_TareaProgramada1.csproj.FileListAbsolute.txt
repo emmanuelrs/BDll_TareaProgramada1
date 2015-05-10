@@ -5,3 +5,4 @@ C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\B
 C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.pdb
 C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.Properties.Resources.resources
 C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.csproj.GenerateResource.Cache
+C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.csprojResolveAssemblyReference.cache

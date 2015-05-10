@@ -73,6 +73,16 @@ namespace BDll_TareaProgramada1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bg2 {
+            get {
+                object obj = ResourceManager.GetObject("bg2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bgIndex {
             get {
                 object obj = ResourceManager.GetObject("bgIndex", resourceCulture);
@@ -86,6 +96,26 @@ namespace BDll_TareaProgramada1.Properties {
         internal static System.Drawing.Bitmap bglogin {
             get {
                 object obj = ResourceManager.GetObject("bglogin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap botonOracle {
+            get {
+                object obj = ResourceManager.GetObject("botonOracle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap botonSQL {
+            get {
+                object obj = ResourceManager.GetObject("botonSQL", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
