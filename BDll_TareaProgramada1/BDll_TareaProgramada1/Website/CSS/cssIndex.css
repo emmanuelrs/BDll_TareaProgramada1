@@ -32,4 +32,11 @@
   padding: 10px 40px; 
   border-radius: 25px;
 }
-
+h1{
+  font-size: 88px;
+  font-style: italic;
+  color: #808080;
+  padding: 50px;
+  text-shadow: -1px -1px 0px #101010, 1px 1px 0px #505050;
+  text-align:center;
+ }
