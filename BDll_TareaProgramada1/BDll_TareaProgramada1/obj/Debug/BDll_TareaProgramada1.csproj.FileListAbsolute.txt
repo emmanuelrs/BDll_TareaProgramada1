@@ -6,3 +6,12 @@ C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\B
 C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.Properties.Resources.resources
 C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.csproj.GenerateResource.Cache
 C:\Users\Emmanuel\Documents\GitHub\BDll_TareaProgramada1\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\bin\BDll_TareaProgramada1.dll.config
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\bin\BDll_TareaProgramada1.dll
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\bin\BDll_TareaProgramada1.pdb
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\bin\Oracle.DataAccess.dll
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.Properties.Resources.resources
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.csproj.GenerateResource.Cache
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.dll
+C:\Users\LUIS\Desktop\BDll_TareaProgramada1 - copia\BDll_TareaProgramada1\BDll_TareaProgramada1\obj\Debug\BDll_TareaProgramada1.pdb
